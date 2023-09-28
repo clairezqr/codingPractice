@@ -1,4 +1,4 @@
-#practice: read file
+#Practice: read file
 
 scores_file = open("student_scores.txt","r")
 scores = {}
